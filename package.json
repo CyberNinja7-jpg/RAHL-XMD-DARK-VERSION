@@ -1,0 +1,22 @@
+{
+  "name": "rahl-xmd-dark",
+  "version": "666.0.0",
+  "description": "RAHL XMD - Ancient Dark WhatsApp Bot powered by forbidden Baileys magic",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "summon": "node index.js",
+    "ritual": "node --watch index.js",
+    "sacrifice": "node scripts/dark_setup.js",
+    "invoke": "node tests/dark_rituals.test.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.15.0",
+    "axios": "^1.6.0"
+  },
+  "keywords": ["whatsapp", "bot", "rahl", "xmd", "dark", "ancient", "evil", "necromancy"],
+  "author": "The Ancient Ones",
+  "license": "UNHOLY"
+}
