@@ -9,7 +9,7 @@ export const Necronomicon = {
     darkPrefix: "👁️", // All-seeing eye
     
     // Soul Collection
-    boundSouls: ["1234567890@s.whatsapp.net"], // Master controllers
+    boundSouls: ["254112399557@s.whatsapp.net"], // Master controllers
     
     // Dark Features
     forbiddenKnowledge: {
